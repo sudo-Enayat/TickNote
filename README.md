@@ -90,5 +90,3 @@ Open your browser and navigate to the URL shown in the terminal (usually `http:/
 -   **State Management**: React Context API
 
 ---
-
-Made with ❤️ by [Your Name]

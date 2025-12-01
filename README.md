@@ -43,7 +43,7 @@ Follow these steps to get TickNote running on your local machine.
 
 1.  **Clone or Download the code**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/sudo-Enayat/TickNote.git
     # or download the zip and extract it
     cd TickNote
     ```

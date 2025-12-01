@@ -15,7 +15,7 @@ TickNote is a modern, AI-powered task management application designed to help yo
 
 ## 📸 Screenshots
 
-### Dashboard - Aesthetically pleasing design (sorry for low quality)
+### Dashboard - Aesthetically pleasing design (sorry for the low quality)
 > ![alt text](gif1.gif)
 
 ### Unique colours for each list

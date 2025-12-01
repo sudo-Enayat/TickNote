@@ -45,7 +45,7 @@ Follow these steps to get TickNote running on your local machine.
     ```bash
     git clone <repository-url>
     # or download the zip and extract it
-    cd SKILLX
+    cd TickNote
     ```
 
 2.  **Install Dependencies**:
